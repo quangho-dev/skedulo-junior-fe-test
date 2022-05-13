@@ -1,0 +1,38 @@
+.error-message {
+  color: red;
+}
+
+.search-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.search-field-label {
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.search-field-input {
+  padding: 10px;
+}
+
+.job-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2em;
+}
+
+.job-info {
+  border: 3px solid rgb(119, 119, 119);
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.bold-text {
+  font-weight: 600;
+}
